@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  text-align: left;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+.Blue{
+  color: lightblue;
+}
