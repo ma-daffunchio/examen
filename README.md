@@ -9,7 +9,7 @@ Este proyecto fue generado utilizando `create-react-app`, es una utilidad de lin
 
 # Como utilizarlo, modificarlo y compilarlo
 
-* [Para correr el proyecto en un servidor local](webpack-dev-server), primero debemos instalar las dependencias.
+* [Para correr el proyecto en un servidor local] primero debemos instalar las dependencias.
   Para eso nos vamos a la consola y parados en la raiz del proyecto(matias-at) corremos `npm install`.
   Esperamos la instalación de los módulos de Node y ejecutamos `npm start`.
   Esto abrira el navegador y la aplicación deberá de correr en el localhost:3000. En caso de otro proyecto esté corriendo en el puerto 3000, en la consola figurará si se desea correr la app en otro puerto.
