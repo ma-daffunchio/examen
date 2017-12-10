@@ -1,4 +1,4 @@
-# mock-up
+# Prueba técnica en React
 
 # Paquetes
 
